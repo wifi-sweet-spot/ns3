@@ -13,7 +13,9 @@ http://ieeexplore.ieee.org/document/ PENDING
 
 Author's self-archive version: PENDING
 
-`wifi-central-controlled-aggregation_v199b.cc` is the ns3 file used for the paper.
+`wifi-central-controlled-aggregation_v199.cc` is the main ns3 file used for the paper.
+
+`wifi-central-controlled-aggregation_v215.cc` has also been used.
 
 In addition, for some tests, these other versions with other coefficients have been employed:
 ```
