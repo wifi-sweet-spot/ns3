@@ -15,12 +15,14 @@ Author's self-archive version: PENDING
 
 `wifi-central-controlled-aggregation_v199b.cc` is the ns3 file used for the paper.
 In addition, for some tests, these other versions with other coefficients have been employed:
-`wifi-central-controlled-aggregation_v199b11.cc` 
-`wifi-central-controlled-aggregation_v199b12.cc`
-`wifi-central-controlled-aggregation_v199b13.cc`
-`wifi-central-controlled-aggregation_v199b14.cc`
-`wifi-central-controlled-aggregation_v199b15.cc`
-`wifi-central-controlled-aggregation_v199b16.cc`
+```
+wifi-central-controlled-aggregation_v199b11.cc 
+wifi-central-controlled-aggregation_v199b12.cc
+wifi-central-controlled-aggregation_v199b13.cc
+wifi-central-controlled-aggregation_v199b14.cc
+wifi-central-controlled-aggregation_v199b15.cc
+wifi-central-controlled-aggregation_v199b16.cc
+```
 
 ## Content of the repository
 
