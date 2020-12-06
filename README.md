@@ -7,7 +7,7 @@ A previous version of this study can be found here: https://github.com/Wi5/ns3_8
 ## Citation
 If you use this code, please cite the next research article:
 
-PENDING
+Jose Saldana, Omer Topal, Jose Ruiz-Mas, Julian Fernandez-Navajas, "Finding the Sweet Spot for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, accepted for publication, Dec. 2020.
 
 http://ieeexplore.ieee.org/document/ PENDING
 
@@ -53,7 +53,7 @@ The folder `shell_scripts_used_in_the_paper` contains the files used for obtaini
 
 `test431.sh`. Method #1: linear decrease, linear increase (4). Version 199
 
-`test433.sh-> maybe test521.sh`. Method #2: geometric decrease, geometric increase (5). Version 199b11
+`test521.sh`. Method #2: geometric decrease, geometric increase (5). Version 199b11
 
 `test432.sh`. Method #3: drastic reduction to minimum, linear increase (6). Versiion 199
 
