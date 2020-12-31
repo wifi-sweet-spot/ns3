@@ -69,8 +69,6 @@ The `sh` folder contains the files used for obtaining each of the figures presen
 
 `test521.sh` (Version 199b11), `test522.sh` (Version 199b12), `test523.sh` (Version 199b13), `test524.sh` (Version 199b14), `test525.sh` (Version 199b15), `test526.sh` (Version 199b16), 
 
-```
-
 ## How to use it
 
 - Download ns3.
