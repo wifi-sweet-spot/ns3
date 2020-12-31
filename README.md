@@ -33,7 +33,7 @@ The `.cc` file contains the ns3 script. It has been run with ns3-30.1 (https://w
 
 The folder `shell_scripts_used_in_the_paper` contains the files used for obtaining each of the figures presented in the paper.
 
-- Figure 1 was obtained with `test451sh`, 1 user, seed 2.
+- Figure 1 was obtained with `test451.sh`, 1 user, seed 2.
 
 - Figure 2a) was obtained with `test451.sh`, 1 user seed 2.
 
