@@ -13,6 +13,11 @@ http://ieeexplore.ieee.org/document/ PENDING
 
 Author's self-archive version: PENDING
 
+
+## Content of the repository
+
+The `.cc` folder contains the ns3 script. It has been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
+
 `wifi-central-controlled-aggregation_v199.cc` is the main ns3 file used for the paper.
 
 `wifi-central-controlled-aggregation_v215.cc` has also been used.
@@ -27,11 +32,7 @@ wifi-central-controlled-aggregation_v199b15.cc
 wifi-central-controlled-aggregation_v199b16.cc
 ```
 
-## Content of the repository
-
-The `.cc` file contains the ns3 script. It has been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
-
-The folder `shell_scripts_used_in_the_paper` contains the files used for obtaining each of the figures presented in the paper.
+The `sh` folder contains the files used for obtaining each of the figures presented in the paper.
 
 - Figure 1 was obtained with `test451.sh`, 1 user, seed 2.
 
