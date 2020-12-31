@@ -16,7 +16,7 @@ Author's self-archive version: PENDING
 
 ## Content of the repository
 
-The `.cc` folder contains the ns3 script. It has been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
+The `cc` folder contains the ns3 script. It has been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
 
 `wifi-central-controlled-aggregation_v199.cc` is the main ns3 file used for the paper.
 
