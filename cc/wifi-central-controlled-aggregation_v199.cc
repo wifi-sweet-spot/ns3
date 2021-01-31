@@ -1,18 +1,15 @@
 /* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
 /*
- * Copyright (c) 2017 Jose Saldana, University of Zaragoza (jsaldana@unizar.es)
+ * Copyright (c) 2020 Jose Saldana, University of Zaragoza (jsaldana@unizar.es)
  *
- * This work has been partially financed by the EU H2020 Wi-5 project (G.A. no: 644262).
+ * If you use this code, please cite the next research article (final reference still pending):
  *
- * If you use this code, please cite the next research article:
+ * Jose Saldana, Omer Topal, Jose Ruiz-Mas, Julian Fernandez-Navajas, "Finding the Sweet Spot
+ * for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, accepted for publication,
+ * Dec. 2020. doi: 10.1109/LCOMM.2020.3044231
  *
- * Jose Saldana, Jose Ruiz-Mas, Jose Almodovar, "Frame Aggregation in Central Controlled
- * 802.11 WLANs: the Latency vs. Throughput Trade-off," IEEE Communications Letters,
- * vol.21, no. 2, pp. 2500-2530, Nov. 2017. ISSN 1089-7798.
- * http://dx.doi.org/10.1109/LCOMM.2017.2741940
- *
- * http://ieeexplore.ieee.org/document/8013762/
- * Author's self-archive version: http://diec.unizar.es/~jsaldana/personal/amsterdam_2017_in_proc.pdf
+ * https://ieeexplore.ieee.org/document/9291427
+ * Author's self-archive version: https://github.com/wifi-sweet-spot/ns3/blob/main/LCOMM3044231_authors_version.pdf
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
