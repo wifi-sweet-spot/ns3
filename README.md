@@ -7,9 +7,9 @@ A previous version of this study can be found here: https://github.com/Wi5/ns3_8
 ## Citation
 If you use this code, please cite the next research article:
 
-Jose Saldana, Omer Topal, Jose Ruiz-Mas, Julian Fernandez-Navajas, "Finding the Sweet Spot for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, accepted for publication, Dec. 2020.
+Jose Saldana, Omer Topal, Jose Ruiz-Mas, Julian Fernandez-Navajas, "Finding the Sweet Spot for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, accepted for publication, Dec. 2020. doi: 10.1109/LCOMM.2020.3044231
 
-http://ieeexplore.ieee.org/document/ PENDING
+https://ieeexplore.ieee.org/document/9291427
 
 Author's self-archive version: PENDING
 
