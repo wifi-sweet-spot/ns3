@@ -5,8 +5,8 @@
  * If you use this code, please cite the next research article (final reference still pending):
  *
  * Jose Saldana, Omer Topal, Jose Ruiz-Mas, Julian Fernandez-Navajas, "Finding the Sweet Spot
- * for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, accepted for publication,
- * Dec. 2020. doi: 10.1109/LCOMM.2020.3044231
+ * for Frame Aggregation in 802.11 WLANs," IEEE Communications Letters, vol. 25, no. 4, pp. 1368-1372,
+ * April 2021, doi: 10.1109/LCOMM.2020.3044231.
  *
  * https://ieeexplore.ieee.org/document/9291427
  * Author's self-archive version: https://github.com/wifi-sweet-spot/ns3/blob/main/LCOMM3044231_authors_version.pdf
